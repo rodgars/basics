@@ -5,7 +5,7 @@ Web App developed in the Udemy course "Modern React with Redux" - Instructor: St
 
 The apps were developed separatelly during the course, but I grouped all components in the same app and changed the style.
 
-The ideia was created some app using React and Redux, integrating with 3th party APIs such as Youtuber, GoogleMaps and others.
+The ideia was created some app using React and Redux, integrating with 3th party APIs such as Youtube, GoogleMaps and others.
 
 Link of the course: https://www.udemy.com/react-redux
 
